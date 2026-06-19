@@ -1,2 +1,2 @@
 # C-program-li.
-author- Shoyebt
+author- Shoyeb Akhtar
